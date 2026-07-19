@@ -52,7 +52,8 @@ Verified stable, glitch-free color-bar output on a physical TV.
   <img src="output_2.png" width="45%">
 </p>
 
+
 ## Tools
 
-Xilinx Vivado · Verilog HDL
-Spartan-7 . Boolean Board
+Xilinx Vivado · Verilog HDL <br>
+Spartan-7 · Boolean Board
