@@ -48,8 +48,10 @@ Verified stable, glitch-free color-bar output on a physical TV.
 **Output:**
 
 <p align="center">
-  <img src="images/output-1.png" width="45%">
-  <img src="images/output-2.png" width="45%">
+  <img src="images/output-1.png" width="85%">
+  </p>
+  <p align="center">
+  <img src="images/output-2.png" width="85%">
 </p>
 
 ## Tools
